@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0827-making-a-large-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,16 +18,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0827-making-a-large-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0827-making-a-large-island) |
 ## Sorting
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0721-accounts-merge) |
+## Matrix
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
