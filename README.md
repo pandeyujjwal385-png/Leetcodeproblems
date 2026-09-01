@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0721-accounts-merge](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0827-making-a-large-island) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0015-3sum) |
 | [0721-accounts-merge](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
@@ -41,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
