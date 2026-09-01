@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0721-accounts-merge](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0827-making-a-large-island) |
 ## Hash Table
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0827-making-a-large-island](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0827-making-a-large-island) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
