@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0189-rotate-array) |
 | [0721-accounts-merge](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0827-making-a-large-island) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -46,8 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
