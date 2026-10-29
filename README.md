@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pandeyujjwal385-png/Leetcodeproblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
